@@ -2,6 +2,12 @@
 
 Aplicación de gestión comercial para un negocio de reventa de indumentaria. Está pensada para simplificar el control de compras, stock, ventas y cuentas desde el celular.
 
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ecf8e?logo=supabase&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-offline--first-5a0fc8)
+![Vitest](https://img.shields.io/badge/tests-Vitest-6e9f18?logo=vitest&logoColor=white)
+
 ## Capturas
 
 <p align="center">
@@ -30,9 +36,10 @@ Aplicación de gestión comercial para un negocio de reventa de indumentaria. Es
 | Uso sin conexión | PWA, Service Worker, IndexedDB y almacenamiento local |
 | Exportación | ExcelJS |
 
-## Demo
+## Enlaces
 
-La dirección de la demo todavía no está publicada en este README. Las capturas de pantalla muestran la interfaz de la aplicación.
+- **Demo en vivo:** _enlace pendiente_
+- **Portfolio:** _enlace pendiente_
 
 ## Código fuente
 
