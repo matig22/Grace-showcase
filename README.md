@@ -1,6 +1,6 @@
 ﻿# Grace Indumentarias · App de gestión comercial
 
-[![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-244a8f?style=for-the-badge)](https://TU-DEMO.netlify.app)
+[![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-244a8f?style=for-the-badge)](https://demo-grace-indumentaria.netlify.app/)
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ecf8e?logo=supabase&logoColor=white)
@@ -9,7 +9,7 @@
 
 App web instalable (PWA) para celular que gestiona un negocio real de reventa de ropa: compras por lote, stock con fotos, ventas, pagos, clientas, deudas y balance. Funciona **sin internet** y se sincroniza entre dispositivos cuando hay conexión.
 
-> **Probala:** [TU-DEMO.netlify.app](https://TU-DEMO.netlify.app) · La demo usa **datos inventados** y no se conecta a ninguna base de datos: podés tocar todo sin romper nada. PIN de la zona privada: `1234`.
+> **Probala:** [demo-grace-indumentaria.netlify.app](https://demo-grace-indumentaria.netlify.app/) · La demo usa **datos inventados** y no se conecta a ninguna base de datos: podés tocar todo sin romper nada. PIN de la zona privada: `1234`.
 
 <p align="center">
   <img src="imgs/home.jpg" alt="Inicio" width="30%">
@@ -71,7 +71,7 @@ El proyecto está en producción y lo usa un negocio real, así que el código f
 ## Autor
 
 **Matías Marco Galli** · Estudiante avanzado de Ingeniería en Sistemas (UTN FRC) · Río Tercero, Córdoba, Argentina
-[LinkedIn](https://linkedin.com/in/galli-matias-marco) · [Portfolio](https://TU-PORTFOLIO.netlify.app) · matiasgalli20@gmail.com
+[LinkedIn](https://linkedin.com/in/galli-matias-marco) · [Portfolio](https://portfolio-galli-matias.netlify.app/) · matiasgalli20@gmail.com
 
 ## Licencia
 
