@@ -71,7 +71,7 @@ El proyecto está en producción y lo usa un negocio real, así que el código f
 ## Autor
 
 **Matías Marco Galli** · Estudiante avanzado de Ingeniería en Sistemas (UTN FRC) · Río Tercero, Córdoba, Argentina
-[LinkedIn](https://linkedin.com/in/galli-matias-marco) · [Portfolio](https://portfolio-galli-matias.netlify.app/) · matiasgalli20@gmail.com
+[LinkedIn](https://linkedin.com/in/galli-matias-marco) · [Portfolio](https://portfolio-galli-matias.vercel.app/) · matiasgalli20@gmail.com
 
 ## Licencia
 
